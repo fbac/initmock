@@ -6,6 +6,6 @@ func init() {
 	fmt.Println("[initfunc][init] initializing initmock")
 }
 
-func placeholder() {
+func Placeholder() {
 	fmt.Println("[initfunc][placeholder] I'm just a simple placeholder func")
 }
